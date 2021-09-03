@@ -1,0 +1,16 @@
+# selfbot-scraper
+
+This allows you to take the online list of any servers without any permissions.
+You can get the entire server as well as long as its below 1000 members
+
+2 Modes
+- You can input a guild id and channel id directly
+- You can type .avef in a channel and itll automatically parse it
+
+# Installation requirements
+
+1) Install Discum: https://github.com/Merubokkusu/Discord-S.C.U.M
+
+python -m pip install --user --upgrade git+https://github.com/Merubokkusu/Discord-S.C.U.M.git#egg=discum
+
+2) Run the script and edit the variables inside it accordingly you skid
